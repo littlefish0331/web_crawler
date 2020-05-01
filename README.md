@@ -34,11 +34,11 @@
 - 爬取網站網址: [https://redtsai.blogspot.com/](https://redtsai.blogspot.com/)
 - 資料用途、爬取動機: 好玩，想嘗試如何從該blog的取得資料。
 - 學習技能:
-  - 學習使用網址做query，在網址後面加上 "search?max-results=30"
+  - 學習使用網址做query，在網址後面加上 "/search?max-results=30"
   - 全部為文字資料，儲存成 .txt，檔名為 blog的文章名稱
   - 建立爬取列表 [filename, url, title]，方便後續追查資料來源，已經是否有爬取過該網址。
-  - 簡單描述爬取這個網站過程學習的技巧
-
-
-
+  - 透過html去抓取網頁資訊，包括選取節點等。read_html(), html_nodes(), html_attr()
+  - 將 html 的<br> ，替換成\n。xml_find_all(), xml_add_sibling(), xml_remove()
+- 半角空白的 raw 為 c2 ao, 半形空白的 raw 為 20, 全形空白的 raw 為 a1 40
+- unicode編碼轉換為UTF-8編碼。unicode2utf8()
 
