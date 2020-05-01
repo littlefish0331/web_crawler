@@ -60,17 +60,15 @@
   - 整理該網站資料的方式
 - 資料處理
 
-**未完成項目:**
-
-- 尚未爬取的網址
-  - Google: 撩妹語錄
-- 彙整本來就有的撩妹語錄
-- 為每則語錄加入tags，方便後續的搜尋
-- 製作小型API
-  - lang: chi, eng(依照主要語言來判斷)
-  - dialogTF
-  - direction: GtoB, BtoG, both
-  - nchar
-  - sentenceN
-
 ### 專案03 - mask dedicate
+
+- 專案名稱(repository): [littlefish0331/mask_dedicate: web crawler mask dedicate list](https://github.com/littlefish0331/mask_dedicate)
+- 使用什麼語言: R
+- 爬取網站網址: [https://taiwancanhelp.com.tw/mask-dedicate](https://taiwancanhelp.com.tw/mask-dedicate)
+- 資料用途、爬取動機: 想統計看看不同名字捐口罩的數量，以及捐贈趨勢變化。詳見 README.md
+- 爬蟲技能:
+  - query show 的筆數可以自動調整，但基本上不會抓太大。先設定每次1000筆。
+  - 學習接續使用 &next 的參數，直到爬取結束。
+  - 紀錄有哪些天的資料已經爬過了，以方便後續爬取的篩選。
+- 資料處理
+
