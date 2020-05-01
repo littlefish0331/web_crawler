@@ -23,7 +23,7 @@ echo %@TodayYear%-%@TodayMonth%-%@TodayDay%(%@weekday%)T%@hour%:%@min%:%@secs% %
 pause
 
 git add .
-git commit -m "%@TodayYear%-%@TodayMonth%-%@TodayDay%(%@weekday%)T%@hour%:%@min%:%@secs%"
+git commit -m "%@TodayYear%-%@TodayMonth%-%@TodayDay%(%@weekday%)T%@hour%:%@min%:%@secs% %arg1%"
 git push
 
 pause
