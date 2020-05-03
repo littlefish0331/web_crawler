@@ -13,7 +13,7 @@
 
 ## 目標
 
-先設立一些小目標
+先設立一些小目標，目前: **3**
 
 - 網站數量: 5, 10, 20, 40, 60, 100
 - PTT: beauty, Hate, Gossiping, Boy-Girl
@@ -72,3 +72,21 @@
   - 紀錄有哪些天的資料已經爬過了，以方便後續爬取的篩選。
 - 資料處理
 
+### 專案04 - youtube 音效庫
+
+- 專案名稱(repository): [littlefish0331/YT_audiolibrary: web crawl YT audiolibrary](https://github.com/littlefish0331/YT_audiolibrary)
+- 使用什麼語言: R
+- 爬取網站網址: [音效庫 - YouTube](https://www.youtube.com/audiolibrary/music?nv=1)
+- 資料用途、爬取動機: 想嘗試爬看看 + 想知道YT音效庫的內容，之後還可以做一個更好的介面，紀錄創作者自己的tags。詳見 README.md
+- 爬蟲技能:
+  - 認識動態加載網頁，以及查詢資料路徑
+    - 如何取得想要的 query 網址: F12(開發人員選項) + Network + XHR + Headers和Preview
+  - R 操作 cmd
+  - cmd 呼叫 chrome 進行操作
+    - 輸入 url，等待query後，下載完成
+- 資料處理
+  - R 移動檔案以及刪除
+  - 解析 json 檔案
+  - 特殊文字(例如法國 latin 編碼)轉換
+
+### 專案05 - CDC 新聞
