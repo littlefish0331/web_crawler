@@ -13,17 +13,20 @@
 
 ## 目標
 
-先設立一些小目標，目前: **3**
+先設立一些小目標，目前: **3.5**
 
 - 網站數量: 5, 10, 20, 40, 60, 100
 - PTT: beauty, Hate, Gossiping, Boy-Girl
-- New: 蘋果, 自由, 中時, 聯合, 經濟, router, 鏡周刊
+- New: 蘋果, 自由, 中時, 聯合, 經濟, router, 鏡周刊, 風傳媒, 公視, 軍聞社, 中央社
 - 台灣證券交易所: [https://bsr.twse.com.tw/bshtm/](https://bsr.twse.com.tw/bshtm/)
-- youtube 音效庫
-- mask-dedicate
+- ~~youtube 音效庫~~
+- ~~mask-dedicate~~
+- 撩妹語錄: 渣男API
 - blogger
 - medium
 - facebook
+- instagram
+- [雙語詞彙 - 下載專區](http://terms.naer.edu.tw/downloadlist/)
 
 ---
 
