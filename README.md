@@ -57,6 +57,10 @@
 - stockfeel
 - 搜狗詞庫
 - youtube 影片
+  - [javascript - How To Obtain YouTube Video Download Url Just Like KeepVid (2017)? - Stack Overflow](https://stackoverflow.com/questions/45246837/how-to-obtain-youtube-video-download-url-just-like-keepvid-2017)
+  - [ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
+  - [Tyrrrz/YoutubeDownloader: Downloads videos and playlists from YouTube](https://github.com/Tyrrrz/YoutubeDownloader)
+  - [Kej's FLV Retriever](http://kej.tw/flvretriever/youtube.php)
 
 ## 目標 - 已完成(過)的網站
 
