@@ -11,22 +11,57 @@
   - 整理該網站資料的方式
 - 資料處理
 
-## 目標
+## 目標 - 未完成的網站
 
 先設立一些小目標，目前: **3.5**
 
 - 網站數量: 5, 10, 20, 40, 60, 100
-- PTT: beauty, Hate, Gossiping, Boy-Girl
-- New: 蘋果, 自由, 中時, 聯合, 經濟, router, 鏡周刊, 風傳媒, 公視, 軍聞社, 中央社
-- 台灣證券交易所: [https://bsr.twse.com.tw/bshtm/](https://bsr.twse.com.tw/bshtm/)
-- ~~youtube 音效庫~~
-- ~~mask-dedicate~~
 - 撩妹語錄: 渣男API
+- News
+  - 軍聞社
+  - 中央社
+- PTT: beauty, Hate, Gossiping, Boy-Girl
+- News:
+  - 蘋果
+  - 自由
+  - 中時
+  - 聯合
+  - 經濟
+  - router
+  - 鏡周刊
+  - 風傳媒
+  - 公視
+  - 公視
+  - aviation international News
+  - aviationPros
+  - aviationtoday
+  - bloomberg
+  - FlightGlobal
+  - Simple Flying
+  - Forbes
+  - Reuters
+- 台灣證券交易所: [https://bsr.twse.com.tw/bshtm/](https://bsr.twse.com.tw/bshtm/)
 - blogger
 - medium
 - facebook
 - instagram
 - [雙語詞彙 - 下載專區](http://terms.naer.edu.tw/downloadlist/)
+- 漫畫: 漫畫柜
+- 政府開放資料集
+- ptx
+- opensky
+- flightaware
+- Our_airport
+- wiki
+- CNet
+- stockfeel
+- 搜狗詞庫
+- youtube 影片
+
+## 目標 - 已完成(過)的網站
+
+- youtube 音效庫
+- mask-dedicate
 
 ---
 
