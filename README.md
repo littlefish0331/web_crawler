@@ -3,7 +3,7 @@
 這個專案要記錄我練習爬蟲的過程，包括  
 
 - 專案名稱(repository): 連結
-- 使用什麼語言: R, Python, bash, Go, java
+- 使用什麼語言: R, Python, bash, Go, javascript
 - 爬取網站網址:
 - 資料用途、爬取動機
 - 爬蟲技能:
@@ -11,43 +11,28 @@
   - 整理該網站資料的方式
 - 資料處理
 
-## 目標 - 未完成的網站
+## 目標網站(未完成)
 
-先設立一些小目標，目前: **3.5**
+先設立一些小目標，目前: **3.5**  
+專案更新: 2020-05-10，  
+到達網站數量: 5, 10, 20, 40, 60, 100，來吃大餐。
 
-- 網站數量: 5, 10, 20, 40, 60, 100
-- 撩妹語錄: 渣男API
-- News
-  - 軍聞社
-  - 中央社
+- 各種語錄: 撩妹、名人、立志、英文
 - PTT: beauty, Hate, Gossiping, Boy-Girl
 - ELLE
-- News:
-  - 蘋果
-  - 自由
-  - 中時
-  - 聯合
-  - 經濟
-  - 鏡周刊
-  - 風傳媒
-  - 公視
-  - Aviation International News-business-aviation, aviationtoday, aviationPros, aviation international News, Aviation today-commercial, AviationPros.com-aircraft, engines-components
-  - bloomberg, Bloomberg-markets, technology
-  - FlightGlobal
-  - Simple Flying
-  - Forbes, Forbes-business, breaking
-  - Reuters, Reuters-Search_keyword
+- News: 軍聞社、中央社、蘋果、自由、中時、聯合、經濟、鏡周刊、風傳媒、公視、Aviation(News-business, today, international News, today-commercial, Pros.com, aircraft, engines-components)、bloomberg(markets, technology)、FlightGlobal、Simple Flying、Forbes(business, breaking)、Reuters(Search_keyword)
 - 台灣證券交易所: [https://bsr.twse.com.tw/bshtm/](https://bsr.twse.com.tw/bshtm/)
 - blogger
 - medium
 - facebook
 - instagram
-- [雙語詞彙 - 下載專區](http://terms.naer.edu.tw/downloadlist/)
-- 漫畫: 漫畫柜、[動漫狂](https://www.cartoonmad.com/)
-  - http://www.cartoonmad.com/m/?keyword=哥布林殺手
-  - wb
+- Youtube
+  - [javascript - How To Obtain YouTube Video Download Url Just Like KeepVid (2017)? - Stack Overflow](https://stackoverflow.com/questions/45246837/how-to-obtain-youtube-video-download-url-just-like-keepvid-2017)
+  - [ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
+  - [Tyrrrz/YoutubeDownloader: Downloads videos and playlists from YouTube](https://github.com/Tyrrrz/YoutubeDownloader)
+  - [Kej's FLV Retriever](http://kej.tw/flvretriever/youtube.php)
+- 漫畫: 漫畫柜
 - 政府開放資料集
-- ptx
 - opensky
 - flightaware
 - Our_airport
@@ -55,15 +40,11 @@
 - CNet
 - stockfeel
 - 搜狗詞庫
-- youtube 影片
-  - [javascript - How To Obtain YouTube Video Download Url Just Like KeepVid (2017)? - Stack Overflow](https://stackoverflow.com/questions/45246837/how-to-obtain-youtube-video-download-url-just-like-keepvid-2017)
-  - [ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
-  - [Tyrrrz/YoutubeDownloader: Downloads videos and playlists from YouTube](https://github.com/Tyrrrz/YoutubeDownloader)
-  - [Kej's FLV Retriever](http://kej.tw/flvretriever/youtube.php)
 - 求職: indeed, linkdin
-- 交通: youbike, obike, 高速公路
+- 交通: youbike, obike, 高速公路, ptx
+- app: TimepipeGO
 
-## 目標 - 已完成(過)的網站
+## 目標網站(已完成(過)的網站)
 
 - youtube 音效庫
 - mask-dedicate
@@ -97,12 +78,10 @@
 
 ### 專案02 - 撩妹語錄收集
 
-這可能算是一個比較大的專案，因為自己過去就有在收集這種語錄XDD  
-所以趁這次用這個機會把東西整理一下
-
 - 專案名稱(repository): 連結
 - 使用什麼語言: R, Python, bash, Go, java
-- 爬取網站網址:
+- 爬取網站網址: 
+  - 渣男API
 - 資料用途、爬取動機
 - 爬蟲技能:
   - 簡單描述爬取這個網站過程學習的技巧
@@ -138,4 +117,18 @@
   - 解析 json 檔案
   - 特殊文字(例如法國 latin 編碼)轉換
 
-### 專案05 - CDC 新聞
+### 專案05 - 新聞 - CDC
+
+### 專案06 - 新聞 - 軍聞社
+
+### 專案07 - 新聞 - 中央社
+
+### 專案08 - 漫畫 - 動漫狂
+
+- [動漫狂](https://www.cartoonmad.com/)
+  - http://www.cartoonmad.com/m/?keyword=哥布林殺手
+  - wb
+
+### 專案09 - 雙語詞彙
+
+- [雙語詞彙 - 下載專區](http://terms.naer.edu.tw/downloadlist/)
