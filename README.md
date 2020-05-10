@@ -43,6 +43,8 @@
 - 求職: indeed, linkdin
 - 交通: youbike, obike, 高速公路, ptx
 - app: TimepipeGO
+- 氣象
+  - [National and Local Weather Radar, Daily Forecast, Hurricane and information from The Weather Channel and weather.com](https://weather.com/)
 
 ## 目標網站(已完成(過)的網站)
 
