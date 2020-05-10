@@ -21,32 +21,31 @@
   - 軍聞社
   - 中央社
 - PTT: beauty, Hate, Gossiping, Boy-Girl
+- ELLE
 - News:
   - 蘋果
   - 自由
   - 中時
   - 聯合
   - 經濟
-  - router
   - 鏡周刊
   - 風傳媒
   - 公視
-  - 公視
-  - aviation international News
-  - aviationPros
-  - aviationtoday
-  - bloomberg
+  - Aviation International News-business-aviation, aviationtoday, aviationPros, aviation international News, Aviation today-commercial, AviationPros.com-aircraft, engines-components
+  - bloomberg, Bloomberg-markets, technology
   - FlightGlobal
   - Simple Flying
-  - Forbes
-  - Reuters
+  - Forbes, Forbes-business, breaking
+  - Reuters, Reuters-Search_keyword
 - 台灣證券交易所: [https://bsr.twse.com.tw/bshtm/](https://bsr.twse.com.tw/bshtm/)
 - blogger
 - medium
 - facebook
 - instagram
 - [雙語詞彙 - 下載專區](http://terms.naer.edu.tw/downloadlist/)
-- 漫畫: 漫畫柜
+- 漫畫: 漫畫柜、[動漫狂](https://www.cartoonmad.com/)
+  - http://www.cartoonmad.com/m/?keyword=哥布林殺手
+  - wb
 - 政府開放資料集
 - ptx
 - opensky
@@ -61,17 +60,25 @@
   - [ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
   - [Tyrrrz/YoutubeDownloader: Downloads videos and playlists from YouTube](https://github.com/Tyrrrz/YoutubeDownloader)
   - [Kej's FLV Retriever](http://kej.tw/flvretriever/youtube.php)
+- 求職: indeed, linkdin
+- 交通: youbike, obike, 高速公路
 
 ## 目標 - 已完成(過)的網站
 
 - youtube 音效庫
 - mask-dedicate
+- blogger, blogspot.com
+
+## 小心得與前輩指點
+
+- 不用死守一個網站，一定要爬下來，別人說不定設了層層關卡，但總是有人非常好心(或懶惰XD) 沒做什麼防護，就很好爬
+- 有機會增加一些不同類型的
 
 ---
 
 ## 專案描述
 
-### 專案01 - blogspot.com
+### 專案01 - blogspot.com, blogger
 
 - 專案名稱(repository): 為公司專案，無法提供。本機留有資料備份 MOD_project/lonlat/
 - 使用什麼語言: R
