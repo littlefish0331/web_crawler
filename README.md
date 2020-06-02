@@ -25,13 +25,14 @@
 - blogger
 - medium
 - facebook
+- twitter
 - instagram
 - Youtube
   - [javascript - How To Obtain YouTube Video Download Url Just Like KeepVid (2017)? - Stack Overflow](https://stackoverflow.com/questions/45246837/how-to-obtain-youtube-video-download-url-just-like-keepvid-2017)
   - [ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
   - [Tyrrrz/YoutubeDownloader: Downloads videos and playlists from YouTube](https://github.com/Tyrrrz/YoutubeDownloader)
   - [Kej's FLV Retriever](http://kej.tw/flvretriever/youtube.php)
-- 漫畫: 漫畫柜
+- 漫畫: 漫畫柜、污漫社
 - 政府開放資料集
 - opensky
 - flightaware
