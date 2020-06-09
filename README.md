@@ -20,7 +20,8 @@
 - 各種語錄: 撩妹、名人、立志、英文
 - PTT: beauty, Hate, Gossiping, Boy-Girl
 - ELLE
-- News: 軍聞社、中央社、蘋果、自由、中時、聯合、經濟、鏡周刊、風傳媒、公視、Aviation(News-business, today, international News, today-commercial, Pros.com, aircraft, engines-components)、bloomberg(markets, technology)、FlightGlobal、Simple Flying、Forbes(business, breaking)、Reuters(Search_keyword)
+- News: 軍聞社、中央社、蘋果、自由、中時、聯合、經濟、鏡周刊、風傳媒、公視、Aviation(News-business, today, international News, today-commercial, Pros.com, aircraft, engines-components)、bloomberg(markets, technology)、FlightGlobal、Simple Flying、Forbes(business, breaking)、Reuters(Search_keyword)、Paris Review 
+- [iamadamdev/bypass-paywalls-chrome: Bypass Paywalls web browser extension](https://github.com/iamadamdev/bypass-paywalls-chrome)
 - 台灣證券交易所: [https://bsr.twse.com.tw/bshtm/](https://bsr.twse.com.tw/bshtm/)
 - blogger
 - medium
@@ -49,6 +50,9 @@
 - 公司的通訊錄
 - [景點 - 觀光資訊資料庫 | 政府資料開放平臺](https://data.gov.tw/dataset/7777)
 - 破解年代售票系統
+- [中國迫害地圖](https://zh.bitterwinter.org/map-of-china/)
+- 古文、課文
+- 歌詞中英
 
 ## 目標網站(已完成(過)的網站)
 
