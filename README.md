@@ -53,6 +53,22 @@
 - [中國迫害地圖](https://zh.bitterwinter.org/map-of-china/)
 - 古文、課文
 - 歌詞中英
+- 四大便利超商資料
+  - [商工行政資料開放平臺 -資料目錄-全國4大超商資料集](https://data.gcis.nat.gov.tw/od/detail?oid=0202BFA9-8116-4E63-A41A-58A5F4EAF7A2)
+  - [全國4大超商資料集 | 政府資料開放平臺](https://data.gov.tw/dataset/32086)
+  - [便利超商 - Google 我的地圖](https://www.google.com/maps/d/embed?mid=1hDt1oYbB_QYOG-Z0ypn19-1T7oM&hl=zh-TW&ved=0CBwQkAUwAA&ei=CLFZS43sCqa8ugOK0pCuCQ&ie=UTF8&msa=0&ll=25.071974202256953%2C121.40374832714845&spn=0.070996%2C0.068298&output=embed&z=11)
+- 中華郵政地址資料
+  - [中華郵政全球資訊網](https://www.post.gov.tw/post/internet/I_location/index_all.html)
+  - [中華郵政全球資訊網-營業據點 - 全國郵局查詢(含代辦所)](https://www.post.gov.tw/post/internet/I_location/index.jsp?ID=1901)
+  - [交通部暨所屬機關已開放資料集 - 交通部政府資料開放專區-中華民國交通部](https://event.motc.gov.tw/home.jsp?id=1615&parentpath=0,1447&websiteid=201506260001&mcustomize=govdata_view.jsp&uid=201705110003)
+- 笑話收集
+  - [API | The Internet Chuck Norris Database](http://www.icndb.com/api/)
+- 四大超商地址
+  - [商工行政資料開放平臺 -資料目錄-全國4大超商資料集](https://data.gcis.nat.gov.tw/od/detail?oid=0202BFA9-8116-4E63-A41A-58A5F4EAF7A2)
+  - [全國4大超商資料集 | 政府資料開放平臺](https://data.gov.tw/dataset/32086)
+  - [便利超商 - Google 我的地圖](https://www.google.com/maps/d/embed?mid=1hDt1oYbB_QYOG-Z0ypn19-1T7oM&hl=zh-TW&ved=0CBwQkAUwAA&ei=CLFZS43sCqa8ugOK0pCuCQ&ie=UTF8&msa=0&ll=25.049172139253795%2C121.531754&spn=0.070996%2C0.068298&output=embed&z=13)
+
+
 
 ## 目標網站(已完成(過)的網站)
 
