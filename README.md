@@ -67,7 +67,9 @@
   - [商工行政資料開放平臺 -資料目錄-全國4大超商資料集](https://data.gcis.nat.gov.tw/od/detail?oid=0202BFA9-8116-4E63-A41A-58A5F4EAF7A2)
   - [全國4大超商資料集 | 政府資料開放平臺](https://data.gov.tw/dataset/32086)
   - [便利超商 - Google 我的地圖](https://www.google.com/maps/d/embed?mid=1hDt1oYbB_QYOG-Z0ypn19-1T7oM&hl=zh-TW&ved=0CBwQkAUwAA&ei=CLFZS43sCqa8ugOK0pCuCQ&ie=UTF8&msa=0&ll=25.049172139253795%2C121.531754&spn=0.070996%2C0.068298&output=embed&z=13)
-
+- 飛航記錄
+  - [Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map](https://www.flightradar24.com/multiview/25.77,121.68/6)
+  - [即時飛行跟蹤 - FlightAware](https://zh-tw.flightaware.com/live/)
 
 
 ## 目標網站(已完成(過)的網站)
